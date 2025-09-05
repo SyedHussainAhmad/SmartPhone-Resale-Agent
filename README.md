@@ -126,6 +126,9 @@ streamlit run app.py
 - GitHub: [@SyedHussainAhmad](https://github.com/SyedHussainAhmad)  
 - LinkedIn: [Syed Hussain Ahmad](https://www.linkedin.com/in/syedhussainahmad/)
 
+**Special Thanks**
+- Syed Fassih Shah: [@FassihShah](https://github.com/fassihshah/)
+
 ---
 ⭐ Star this repository if you found it helpful!
 
